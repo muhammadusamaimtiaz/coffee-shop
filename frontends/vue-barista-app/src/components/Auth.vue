@@ -2,8 +2,8 @@
   <div class="row parent">
     <div class="flex md6 lg6">
       <va-inner-loading :loading="isLoading">
-        <va-card :bordered="false" style="margin-top: 100px">
-          <v-card-title>Register</v-card-title>
+        <va-card :bordered="false" style="margin-top: 100px" color="primary">
+          <va-card-title>Register</va-card-title>
           <va-card-content
             >Enter your phone number. We will send you a text message with a
             one-time password.</va-card-content

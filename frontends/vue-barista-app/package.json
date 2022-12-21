@@ -20,7 +20,7 @@
     "mitt": "^3.0.0",
     "vue": "^3.2.45",
     "vue3-tel-input": "^1.0.4",
-    "vuestic-ui": "^1.1.1"
+    "vuestic-ui": "^1.5.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
